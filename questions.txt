@@ -1,0 +1,15 @@
+Q1: what is your name?
+Q2: what is oops?
+Q3: what is fav color?
+Q4: clor?
+Q5: ANME?
+Q6: what is the date?
+Q7: what is system programming?
+Q8: what is your age?
+Q9: which company?
+Q10: where is ayodhya?
+Q11: what is object?
+Q12: WHAT IS OOPS?
+Q13: what is your hand wash price?
+Q14: xyz?
+Q15: pqr?
